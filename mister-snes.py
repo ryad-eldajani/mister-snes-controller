@@ -2,12 +2,12 @@
 """
 MiSTer SNES Controller display based on retrospy
 
-2021 Ryad-Marcel El-Dajani
+(c) 2021 Ryad-Marcel El-Dajani
 
 License: MIT
 
-To be honest, this script is really shitty and I just did quick-and-dirty
-it on a free afternoon to simply show inputs on my SNES compatible
+To be honest, this script is really shitty and I just did it quick and
+dirty on a free afternoon to simply show inputs on my SNES compatible
 controller from my MiSTer FPGA. The client viewer from the
 suggested application retrospy does not work properly on Linux based
 operating systems to my knowledge.
